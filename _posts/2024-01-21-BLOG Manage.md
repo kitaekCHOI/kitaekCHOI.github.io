@@ -41,7 +41,7 @@ a. https://jekyllrb.com/docs/posts/
 b. layout: single
 c. title: 을 적습니다
 
-7.jupyter notebook 파일을 다운로드 받아 업로드 합니다.
+7. jupyter notebook 파일을 다운로드 받아 업로드 합니다.
 a. 다운로드 받은 .md 파일 명을 변경합니다.
 
 8. images 업로드 방법
